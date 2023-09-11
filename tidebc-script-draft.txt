@@ -1,0 +1,289 @@
+# The camera shows two different patterns separated by a line
+BF::I get that pavements changing colour
+at borders is common.
+
+# Move the camera to reveal a bridge,
+#  MC and BF standing in the middle
+But in the middle of a bridge?
+Is this even a pavement change?
+
+It's like they used different
+construction materials on each side.
+
+That seems like it would make
+the middle a week spot.
+
+MC::Well, it makes it easy to see
+that we are right in the middle.
+
+# Probably have the characters hug
+Just put us in the middle,
+then put the moon above us...
+
+# use "film" or "movie" depending on the VA's accent
+BF::And people will think
+this is a romance film/movie.
+
+But we're just best friends.
+And this is probably not a film/movie.
+
+And if it is,
+it's probably not romance.
+
+MC::What would it be then?
+
+BF::Well, this bridge looks
+like a set decoration.
+
+So, comedy? Or perhaps it's so badly
+built that it'll collapse. Horror?
+
+# And collapse it does, not sure if I want to show that
+#  or have the camera zoom in on something else
+MC::Well, it did collapse.
+And now we are on some island.
+
+And just like in horror films/movies,
+I left my phone charging at home.
+
+Do [i]you[/i] have
+your phone at hand?
+
+BF::No, but if it is a horror film/movie
+there might not be connectivity here.
+
+After all, it's a border, so the phone
+won't know which side to connect to.
+
+# We see the phone.
+#  The text would be shown on the phone screen
+#  rather than in the textbox
+ID::Updating the OS.
+This might take a while.
+
+# We see the characters again
+BF::Well, I think it is horror.
+And this island is getting smaller.
+
+# Not sure about Spanish
+en=MC::I see the tide rise.
+   It doesn't look nice.
+da=Højvandet går op,
+   og vil ikke stop'.
+es=La marea alta
+   no se da de baja.
+
+en=And sharks are around
+   and we will get found
+da=og hajerne omkring,
+   de svømmer i ring,
+es=Y en este mar
+   tiburones hay,
+
+en=and they want some food,
+   they'll think we taste good.
+da=De spiser kød rådt,
+   og tror vi smag'r godt.
+es=Y quieren comer,
+   y creen que sé bien.
+
+# The Spanish translation could be better
+en=BF::We need a way out,
+   perhaps we can shout,
+da=BF::Vi må slippe fri,
+   måske kan vi skrig',
+es=BF::Habrá que gritar
+   o huir del lugar,
+
+en=but then we'll get heard
+   by some evil bird,
+da=men hvem hører det,
+   måske et uhyre vil,
+es=mas nos oirá
+   un monstruo del mar,
+
+en=or maybe a lich,
+   or maybe a witch,
+da=eler også old-
+   gammel heks eller trold,
+es=o una bruja de horror
+   o un liche de terror
+
+# Translation warning: "clip" might require more research
+en=(sound cuts and clips)
+   or perhaps a glitch,
+da=(lyden hakker og summer)
+   det ku' godt være en fejl,
+es=(el sonido se para y zumba)
+   o tal vez es un error,
+
+en=or maybe some demon
+   or monster wraith,
+da=måske det' et genfærd
+   eller en dæmon,
+es=
+
+
+# I'm thinking if bf speaks with a US accent, MC could have a UK accent, that way it makes sense for one to say "maybe" and the other to say "perhaps". If that doesn't work we can at least replace "perhaps" with "I guess", and/or switch who sings which lines.
+Perhaps we should scream on,
+and just have some faith.
+
+
+Perhaps we shouldn't scream though,
+we should work as a team though
+
+and if there is a monster
+I hope that we can muster
+
+the courage to encourage
+it to not turn us to dust, uh.
+
+# the merperson slowly comes out from behind a treasure chest
+mm::Did you too
+call me a monster?
+
+mc::Us two?
+
+mm::You, and other humans.
+
+mc::I hadn't even
+noticed you.
+
+And you're saying "other humans"
+as if you aren't human yourself?
+
+mm::You haven't noticed
+I have a fish tail?
+
+And yeah, some humans
+do call creatures like me "merdemons".
+
+"Merdemons that murder
+merchants by enchanting them"
+
+"with chants and songs and
+chansongs" or whatever it's called.
+
+bf::"Chanson" means song
+in French.
+
+mm::It's not like I can't sing.
+But I don't use it to catch people.
+
+I don't even
+like people.
+
+So, writer,
+please do not make me an LI.
+
+mc::A what?
+
+mm::A Love Interest. Someone that the main
+character would fall in love with.
+
+Luckily, I don't think this is
+a romance story.
+
+mc::I don't need love either,
+but I think I'd prefer it over horror.
+
+mm::This isn't horror either.
+I'm pretty sure it's comedy.
+
+And fantasy.
+Horror-inpired fantasy comedy.
+
+mc::You mean the sharks are just props
+and can't actually eat us?
+
+mm::More likely they're
+some sort of digital puppets.
+
+mc::Should we try and get away
+from this island anyway?
+
+mm::I think so.
+
+I've heard stories of a witch
+going here and hiding a treasure.
+
+Apparently a box with a puzzle that
+grants three wishes if you solve it.
+
+mc::Why would she do that?
+What does she gain from it?
+
+mm::Perhaps it's a puzzle
+she couldn't solve herself.
+
+Let's open the treasure chest
+and see what we got.
+
+# they open the box
+Okay, what's here?
+
+A musical instrument,
+and some instructions.
+
+"Play the song
+that so many games play."
+
+So she's looking for
+an overused song I guess.
+
+# The player has to guess the song
+Correct choice: Pachelbel's canon in D: I think so too. Can you play it? FEDCBABC
+Wrong choice: October by Tchaikovsky: That is not the song I'd guess it is. So try again, and perhaps you've got this.
+Wrong choice: Water Music by Haendel: I don't think so, I think that it must be a different song, so that means your guess is wrong, try again and we'll see then. // I don't think that is correct, I don't think it's right, I don't think it's quite the answer that we might / provide to get away from here
+
+I'm a little
+scared that it'll
+end the story,
+so I'm sorry,
+
+but I'll hope
+that we get home
+and send the shark
+back, end this dark game,
+
+mend the bridge like it is new
+and lend it a few nails
+so it will last,
+we'll get home fast,
+
+hide those shark tails,
+now we are done.
+
+We are now gone
+and we've left the scene,
+you'll see our cast
+on the credits screen.
+
+Nobody has seen
+the bridge not be there
+excet those who've been
+below it like we were.
+
+# Credits screen
+Made for the Spooktober VN jam, see the other entries in the jam at:
+https://itch.io/jam/spooktober-2023/entries
+
+Writer, artist, programmer, lyricist:
+SeaLiteral (Lars Rune Præstmark)
+My games:
+https://sealiteral.itch.io
+
+Proofreader: (I'm going to ask them what they want to be called here)
+
+Music composers:
+- myself ("I see the tide rise")
+- Tchaikovsky (October, from his Four Seasons)
+- Handel (Water Music, I should probably choose one of the parts and figure out what that part is called, right now I'm using two different parts but planon only including one)
+- Pachelbel (Canon in D)
+
+Voice actors:
+- [Insert name here]: Main character
+- [Insert name here]: Best Friend
+- [Insert name here]: Merperson
+
+trying to find something that rhymes with "correct" as in "a correct solution" is tricky because I can't find othe words ending in "orrect". I can't even think of anything with "orre" in it (and story doesn't count because the y in story doesn't make the same sound as the e in correct, or rather, it doesn't do that in the accent I want that character to speak/sing with)
